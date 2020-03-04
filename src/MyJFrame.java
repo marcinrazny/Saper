@@ -1,4 +1,4 @@
-
+import javax.swing.*;
 
 public class MyJFrame extends JFrame {
     public MyJFrame() {
@@ -7,7 +7,7 @@ public class MyJFrame extends JFrame {
         setLocation(150,150);
     	setSize(500, 500);
         setTitle("Moja aplikacja");
-        add(new MyJPanel());
+        add(new MyJPanelPoleGry());
         pack();
     }
 }

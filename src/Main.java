@@ -1,4 +1,6 @@
-package com.nazwiemypozniej;
+//package com.nazwiemypozniej;
+
+import java.awt.*;
 
 public class Main {
     public static void main(String[] args) {
